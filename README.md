@@ -2,6 +2,8 @@
 
 How to run
 -------------------------------
-git clone 
-cd BJWPORTSCANNER
-python3 
+git clone https://github.com/BJW333/BJWPORTSCANNER.git
+
+cd portscanner
+
+python3 portscannerbjw.py
